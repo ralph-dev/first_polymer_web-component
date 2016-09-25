@@ -1,5 +1,3 @@
-# first_polymer_web-component
-
 ## Full Tutorial
 https://medium.com/@ralphpalx/creating-a-polymer-web-component-78d58304e0d3#.4xtyq151h
 
